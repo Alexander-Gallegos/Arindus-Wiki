@@ -2,12 +2,12 @@
 configuration:
   pageTitle: Quartz 5
   pageTitleSuffix: ""
-  enableSPA: true
+  enableSPA: false
   enablePopovers: true
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: arindus-wiki
+  baseUrl: Alexander-Gallegos.github.io/Arindus-Wiki
   ignorePatterns:
     - private
     - templates
