@@ -39,11 +39,3 @@ Arnkell and the unnamed nonmagical Argent Circle member later blamed for Magefal
 The other member had become a major public champion for martial equality in a world that often treated nonmagical fighters as inherently less capable than mages.
 
 Official history says that member ultimately betrayed the Argent Circle and caused the destruction of the magical nation.
-
-Arnkell defeated and sealed him at the old magical capital.
-
-The prisoner was later moved beneath the Republic capital and is now held at the deepest level of the prison under the castle.
-
-Arnkell carries a necklace that sustains the magical seal keeping him contained.
-
-The exact catastrophic act the prisoner was attempting to complete if released remains undecided.

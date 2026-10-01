@@ -1,5 +1,5 @@
 A3
 
-Chaos is one of the three original [[Celestial Beings]]. 
+Chaos is one of the three original [[Celestial Beings]] described in ancient religious tradition.
 
-Due to the tension built from separating the Titans and Bleeding Monarch, Chaos momentarily shattered starting [[The Celestial Conflict]], and creating the [[Gods]].
+One of the dominant creation accounts teaches that the strain of separating the [[Titans]] and [[Bleeding Monarch]] caused Chaos to shatter, beginning [[The Celestial Conflict]] and giving rise to the [[Gods]].

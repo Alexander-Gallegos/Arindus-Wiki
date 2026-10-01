@@ -1,5 +1,5 @@
 R1
 
-One of the main 9 [[Mortal Realms]].
+The mortal realm that contains the world of Arindus.
 
 WORLD MAP [[Arindus.png]]

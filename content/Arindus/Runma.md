@@ -1,3 +1,3 @@
 R1
 
-Country in [[Arindus]] built around one of the [[World Trees]].
+Country in [[Arindus]] built around the [[World Trees|World Tree of Arindus]].

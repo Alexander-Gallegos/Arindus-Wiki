@@ -17,7 +17,7 @@ You do not need to read everything.
 
 ## The World
 
-[[Arindus]] is one of the main [[Mortal Realms]] and is the primary setting of the campaign.
+[[Arindus]] is a [[Mortal Realms|Mortal Realm]] and is the primary setting of the campaign.
 
 The largest and most influential nation is the [[Republic of Arindus]], a federation of old kingdoms that first came together during the [[Demon Age]].
 

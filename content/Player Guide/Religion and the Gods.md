@@ -50,6 +50,6 @@ A later generation includes figures such as:
 
 ## The Wider Cosmos
 
-The [[Heavens]], [[Hells]], [[Mortal Realms]], [[Alltree]], and [[World Trees]] are all part of the larger cosmology.
+The [[Heavens]], [[Hells]], [[Mortal Realms]], and sacred [[World Trees]] appear throughout the world's religious traditions and magical scholarship.
 
 Different cultures may understand or worship these beings differently.
