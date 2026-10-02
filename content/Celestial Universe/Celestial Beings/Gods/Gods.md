@@ -1,3 +1,7 @@
-In widely taught religious tradition, the [[Gods]] are [[Celestial Beings]] born from the shattering of [[Chaos]].
+# Gods
 
-Religious histories describe the Gods as splitting into two ancient [[Covenants]]: the [[Covenant of Blood]] and the [[Titanic Covenant]].
+The world contains many Gods worshipped through different religions, cultures, and local traditions.
+
+Many traditions organize the oldest divine powers around two ancient [[Covenants]], though interpretations of their history and morality vary widely.
+
+More detailed theology is not assumed knowledge for every character.

@@ -1,5 +1,7 @@
 R1
 
-The mortal realm that contains the world of Arindus.
+# Arindus
+
+Arindus is the mortal realm in which the campaign begins.
 
 WORLD MAP [[Arindus.png]]

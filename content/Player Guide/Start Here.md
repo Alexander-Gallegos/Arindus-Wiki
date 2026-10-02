@@ -2,7 +2,7 @@
 
 Welcome to Arindus.
 
-This wiki is meant to give players the general knowledge needed to understand the world and create characters without revealing campaign secrets.
+This wiki is a general introduction to the world. It is meant to give players enough information to understand the setting and create a character without revealing campaign discoveries.
 
 You do not need to read everything.
 
@@ -17,22 +17,20 @@ You do not need to read everything.
 
 ## The World
 
-[[Arindus]] is a [[Mortal Realms|Mortal Realm]] and is the primary setting of the campaign.
+[[Arindus]] is the mortal realm in which the campaign begins.
 
-The largest and most influential nation is the [[Republic of Arindus]], a federation of old kingdoms that first came together during the [[Demon Age]].
+The largest and most influential nation is the [[Republic of Arindus]], a federation of older kingdoms that first united during the [[Demon Age]].
 
-The world is still heavily shaped by the events of the Demon Age and by [[Magefall]], the disaster that ended it roughly 80 years ago.
+Modern life is still strongly shaped by the end of the Demon Age and by [[Magefall]], the catastrophe that ended it roughly 80 years ago.
 
-## Famous Names
+## History People Commonly Know
 
-The [[Argent Circle]] is the legendary hero party associated with ending the Demon Age and helping create the Republic.
+The [[Argent Circle]] is remembered as the legendary group of heroes that helped bring the Demon Age to an end and played a major role in the creation of the Republic.
 
-[[Chrysus Arnkell]] is one of the most famous living figures in the world and is publicly regarded as the only surviving loyal member of that group.
+[[Chrysus Arnkell]] is one of the best-known living figures associated with that history.
 
-[[Reidin Maxwell]] is another well-known figure, especially because of his connection to [[Zucriedor]].
+## Campaign Knowledge
 
-## Using This Wiki
+The [[Party Specifics/Party Specifics|Party Specifics]] section will grow as the party learns things during play.
 
-Some pages are very short because parts of the world are still being developed.
-
-As the campaign continues, this wiki may grow and change as your characters learn more.
+Some parts of the setting remain unavailable until a character's background or the events of the campaign give them a reason to know more.

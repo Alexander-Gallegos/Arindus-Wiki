@@ -1,55 +1,26 @@
 # Religion and the Gods
 
-The world contains many divine beings and religious traditions.
+Religion varies widely across Arindus, but stories about the [[Gods]], the [[Heavens]], the [[Hells]], and ancient divine conflicts are common throughout much of the world.
 
-## The Gods
+Different cultures do not always agree on what those stories mean.
 
-The [[Gods]] are celestial beings connected to the ancient shattering of [[Chaos]].
+## The Covenants
 
-They are traditionally divided into two ancient [[Covenants]]:
+Many religious traditions divide the ancient Gods into two broad [[Covenants]]:
 
 - [[Titanic Covenant]]
 - [[Covenant of Blood]]
 
-These divisions originate in [[The Celestial Conflict]].
+The distinction strongly influences which divine beings a culture treats as benevolent Gods, dangerous or demonic powers, or something more complicated.
 
-## Primal Gods
+Some religions interpret members of the Covenant of Blood very differently from the dominant traditions of the Republic.
 
-The oldest generation includes figures such as:
+## The Bleeding Monarch
 
-- [[Emera, Goddess of Luck]]
-- [[God of Will]]
-- [[God of Knowledge]]
-- [[God of Destruction]]
-- [[God of Self]]
-- [[Goddess of Order]]
-- [[God of Ambition]]
-- [[God of Creation]]
-- [[Goddess of Desire]]
-- [[Goddess of Freedom]]
+The [[Bleeding Monarch]] is a central figure in many religious traditions and is commonly associated with the Hells, demons, and the ancient conflict between divine powers.
 
-## Emergent Gods
+## Religious Knowledge
 
-A later generation includes figures such as:
+An ordinary person may know common stories, names, festivals, and beliefs without understanding detailed theology.
 
-- [[God of Deception]]
-- [[God of Fate]]
-- [[God of Life]]
-- [[God of Motion]]
-- [[God of Shadow]]
-- [[God of Space]]
-- [[God of Time]]
-- [[God of Void]]
-- [[Goddess of Change]]
-- [[Goddess of Death]]
-- [[Goddess of Form]]
-- [[Goddess of Light]]
-- [[Goddess of Memory]]
-- [[Goddess of Rebirth]]
-- [[Goddess of Stillness]]
-
-## The Wider Cosmos
-
-The [[Heavens]], [[Hells]], [[Mortal Realms]], and sacred [[World Trees]] appear throughout the world's religious traditions and magical scholarship.
-
-Different cultures may understand or worship these beings differently.
+Characters with religious training, druidic traditions, magical education, or a strong cultural connection to a particular faith may begin with much more detailed information.
