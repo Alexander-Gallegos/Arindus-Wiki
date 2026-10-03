@@ -1,3 +1,5 @@
 R1
 
-Country in [[Arindus]]
+# Whaik Shen
+
+> Former working name. This nation is now called [[Vaishen]].

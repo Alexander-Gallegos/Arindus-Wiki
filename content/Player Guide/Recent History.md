@@ -1,3 +1,4 @@
+ww0
 # Recent History
 
 The modern world is heavily shaped by two major historical periods: the [[Draconic Age]] and the [[Demon Age]].

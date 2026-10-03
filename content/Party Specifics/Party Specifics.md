@@ -1,3 +1,4 @@
+ww0
 # Party Specifics
 
 This section contains information the party has specifically learned during the campaign.

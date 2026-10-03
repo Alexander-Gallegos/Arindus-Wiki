@@ -1,3 +1,5 @@
 R1
 
-Country in [[Arindus]]
+# Fethioji
+
+> Legacy spelling. This nation is now called [[Fethoji]].

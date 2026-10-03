@@ -1,3 +1,4 @@
+ww0
 # Creating a Character in Arindus
 
 You do not need to know the whole setting before making a character.

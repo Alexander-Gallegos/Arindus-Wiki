@@ -1,3 +1,4 @@
+ww0
 # Magic in Everyday Life
 
 Magic is an important and visible part of life in Arindus.
