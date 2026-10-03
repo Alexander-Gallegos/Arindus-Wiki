@@ -34,12 +34,12 @@ Distinct regions with their own cultures and histories.
 [[Atha]]  
 [[Brahm]]  
 [[Falstead]]  
-[[Fethioji]]  
+[[Fethoji]]  
 [[Halmsted]]  
 [[Hecrar]]  
 [[Mebriele]]  
 [[Oshea]]  
-[[Preid Pra]]  
+[[Pried Pra]]  
 [[Priem Skijan]]  
 [[Priem Smaria]]  
 [[Satredan]]  
@@ -49,7 +49,7 @@ Distinct regions with their own cultures and histories.
 [[Tyr]]  
 [[Velkor]]  
 [[Warforge]]  
-[[Whaik Shen]]  
+[[Vaishen]]  
 [[Wildlands]]
 
 Many country pages are intentionally short until a player chooses a homeland or the campaign brings that region into focus.

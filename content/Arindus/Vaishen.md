@@ -12,7 +12,7 @@ Its people are known as **the Highward**.
 
 Vaishen is mountainous but also contains broad grasslands. It is notably less forested than most other elven nations.
 
-It shares the [[Lake of the Ancestors]] with [[Fethoji]] and borders [[Preid Pra]].
+It shares the [[Lake of the Ancestors]] with [[Fethoji]] and borders [[Pried Pra]].
 
 ## History
 
@@ -88,7 +88,7 @@ Vaishen respects [[Fethoji]] and [[Astela]] as high-elven equals and tries to av
 
 It repeatedly pressures Fethoji over the Lake of the Ancestors and often asks Astela to support its wars or disputes. Astela consistently refuses.
 
-Vaishen has a hostile relationship with [[Preid Pra]] and historically treated its territory as land that could be crossed, raided, or exploited.
+Vaishen has a hostile relationship with [[Pried Pra]] and historically treated its territory as land that could be crossed, raided, or exploited.
 
 The [[Empire of Argile]] is a major ideological and historical enemy. Argile's human supremacy and Vaishen's high-elven supremacy are direct opposites.
 

@@ -1,14 +1,14 @@
 R1
 
-# Preid Pra
+# Pried Pra
 
-Preid Pra is a young, decentralized elven nation made up primarily of wood-elven tribes.
+Pried Pra is a young, decentralized elven nation made up primarily of wood-elven tribes.
 
 **Defining ideal:** Wilderness
 
 ## Geography
 
-Preid Pra is heavily wooded, marshy, and swampy. A large river cuts through the country, and most of the land is relatively flat.
+Pried Pra is heavily wooded, marshy, and swampy. A large river cuts through the country, and most of the land is relatively flat.
 
 ## History
 
@@ -22,7 +22,7 @@ Pressure from Vaishen became one of the strongest reasons the tribes eventually 
 
 ## Government
 
-Preid Pra is a tribal confederation.
+Pried Pra is a tribal confederation.
 
 Individual tribes remain highly autonomous and are governed by their own councils or customs.
 
@@ -32,7 +32,7 @@ The central government has limited ability to control ordinary tribal affairs.
 
 ## Culture
 
-Preid Pra culture varies significantly from tribe to tribe.
+Pried Pra culture varies significantly from tribe to tribe.
 
 Common values include respect for nature, personal independence, practical survival, freedom, and a preference for living according to local values rather than distant authority.
 
@@ -44,7 +44,7 @@ When outside powers threaten the country, however, they are capable of unifying 
 
 Barter remains common within the country.
 
-Preid Pra is wealthier than many outsiders assume because it has significant trade with northern nations, especially the [[Republic of Arindus]] and [[Halmsted]].
+Pried Pra is wealthier than many outsiders assume because it has significant trade with northern nations, especially the [[Republic of Arindus]] and [[Halmsted]].
 
 The nation is not famous for one extraordinary export or industry, and economic life varies heavily between tribes.
 
@@ -62,17 +62,17 @@ Many inhabitants do not necessarily treat it as a permanent political center in 
 
 ## Foreign Relations
 
-[[Vaishen]] is Preid Pra's primary enemy.
+[[Vaishen]] is Pried Pra's primary enemy.
 
 The confederation formed partly to resist Highward raids, slave-taking, border violations, and political pressure.
 
-Preid Pra has friendly relations and active trade with [[Hecrar]].
+Pried Pra has friendly relations and active trade with [[Hecrar]].
 
 Relations with [[Fethoji]] are more complicated. Fethoji usually avoids involvement in Vaishen's treatment of wood elves, which creates resentment among many tribes.
 
 [[Astela]] generally stays out of regional politics, though individual Stillveil or Astelan groups have occasionally provided indirect assistance to tribes that successfully reach them.
 
-The [[Republic of Arindus]] is an important ally and trading partner. Republic recognition also helps reinforce Preid Pra's claim to sovereignty against powers that historically treated the region as ungoverned territory.
+The [[Republic of Arindus]] is an important ally and trading partner. Republic recognition also helps reinforce Pried Pra's claim to sovereignty against powers that historically treated the region as ungoverned territory.
 
 ## Current Problems
 
@@ -80,4 +80,4 @@ The country's two largest problems are internal conflict between tribes and cont
 
 ## Reputation
 
-Outsiders often describe the people of Preid Pra as blunt, wild, unempathetic, fiercely independent, and free.
+Outsiders often describe the people of Pried Pra as blunt, wild, unempathetic, fiercely independent, and free.

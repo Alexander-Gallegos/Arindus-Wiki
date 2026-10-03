@@ -4,13 +4,13 @@ R1
 
 Hecrar is a comparatively young elven nation populated largely by **Stonewood Elves**.
 
-It is older and more politically stable than [[Preid Pra]], but younger than the old high-elven states.
+It is older and more politically stable than [[Pried Pra]], but younger than the old high-elven states.
 
 **Defining ideal:** Endurance
 
 ## Geography
 
-Hecrar contains more open grassland than Preid Pra, with some mountain ranges and extensive coastline.
+Hecrar contains more open grassland than Pried Pra, with some mountain ranges and extensive coastline.
 
 Its most distinctive natural resource is a species of grey-wood tree found throughout its forests.
 
@@ -18,9 +18,9 @@ This **Stonewood** is significantly stronger and sturdier than ordinary timber.
 
 ## The Stonewood Elves
 
-Stonewood Elves are generally more settled, civic-minded, grounded, and people-oriented than the highly decentralized wood-elven tribes of Preid Pra.
+Stonewood Elves are generally more settled, civic-minded, grounded, and people-oriented than the highly decentralized wood-elven tribes of Pried Pra.
 
-Culturally, Hecrar sits somewhere between the independence of Preid Pra and the large, structured institutions of the high-elven nations.
+Culturally, Hecrar sits somewhere between the independence of Pried Pra and the large, structured institutions of the high-elven nations.
 
 The people tend to be practical and are comfortable using the resources nature provides rather than simply preserving them untouched.
 
@@ -28,7 +28,7 @@ Magic remains important, but Hecrar places less cultural emphasis on it than mos
 
 ## Government
 
-Hecrar has a much more centralized government than Preid Pra.
+Hecrar has a much more centralized government than Pried Pra.
 
 The current working direction is an oligarchic government, likely built around major houses, regional powers, military leadership, trade interests, or some combination of them.
 
@@ -64,7 +64,7 @@ The city gives an impression of strength, permanence, practicality, and order.
 
 ## Foreign Relations
 
-Hecrar has friendly relations and regular trade with [[Preid Pra]].
+Hecrar has friendly relations and regular trade with [[Pried Pra]].
 
 Relations with [[Vaishen]] are cooler but functional. Trade continues despite Vaishen's tendency to regard non-high-elven peoples as lesser.
 
